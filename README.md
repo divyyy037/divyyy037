@@ -1,43 +1,66 @@
-🌟 Divyansh Mehta
-Data Analyst | Python | SQL | Power BI | Data Visualization
+<!-- Banner -->
+<img src="https://github.com/divyyy037/divyyy037/blob/main/assets/header.png" width="100%">
 
-Hello! I'm Divyansh, a Data Analyst who transforms raw data into clear, actionable insights using Python, SQL, analytics, and dashboards.
-I specialize in data cleaning, visualization, storytelling, and building practical analytics tools.
+<h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7">Divyansh Mehta</span></h1>
+<h3 align="center">💼 Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
 
-🚀 Projects
-🔹 Triplytics — Travel Data Analytics Dashboard
+---
 
-Power BI + Python project analyzing 7,000+ travel records for pricing, seasonality, trends.
-Skills: ETL, EDA, DAX, Feature Engineering.
+## 🚀 About Me  
+I'm a Data Analyst passionate about transforming messy data into dashboards, insights, and decision-making systems.  
+I love **Python, SQL, dashboards, visual storytelling, and project building**.
 
-🔹 FinSight — Personal Finance Tracker
+---
 
-Python (Tkinter + SQLite) desktop app with analytics and expense automation.
-Skills: GUI, SQLite, Analytics, Matplotlib.
+## 📊 Projects
 
-🔹 InternSpire — Internship Management App
+### 🔹 **Triplytics — Travel Data Analytics Dashboard**  
+Using Python + Power BI to analyze 7,000+ travel records for trends, seasonality & pricing.  
+**Skills:** ETL, EDA, Feature Engineering, DAX, Storytelling
 
-Flutter-based app with roles for Student–Faculty–Admin.
-Skills: Mobile dev, Firebase, Figma.
+### 🔹 **FinSight — Personal Finance Tracker**  
+Tkinter + SQLite app to automate expense tracking and real-time insights.  
+**Skills:** Python, SQLite, Matplotlib, GUI
 
-🛠 Tech Stack
+### 🔹 **InternSpire — Internship Management App**  
+Flutter + Firebase app for Students/Faculty/Admin.  
+**Skills:** Mobile Dev, Firebase, Figma, Application Design
 
-Languages: Python, SQL, C++, HTML/CSS
+---
 
-Data Tools: Pandas, NumPy, Power BI, Matplotlib, Jupyter
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
-Databases: MySQL, SQLite
+---
 
-Other: VS Code, Git, React basics
+## 📈 GitHub Stats  
+<div align="center">
+  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=divyyy037&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyyy037&layout=compact&theme=tokyonight&hide_border=true" />
 
-📊 GitHub Stats
+</div>
 
-🔗 Connect with Me
+---
 
-🌐 Portfolio Website – coming soon
+## 📫 Connect with Me  
+<p>
+  <a href="https://linkedin.com/in/divyyy07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
-💼 LinkedIn – https://linkedin.com/in/divyyy07
+- 📧 **Email:** divyanshmehta6316@gmail.com  
+- 📱 **Phone:** +91 7828019325  
 
-📧 Email – divyanshmehta6316@gmail.com
+---
 
-📱 Phone – +91 7828019325
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
