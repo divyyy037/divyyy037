@@ -1,66 +1,53 @@
-<!-- Banner -->
-<img src="https://github.com/divyyy037/divyyy037/blob/main/assets/header.png" width="100%">
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7">Divyansh Mehta</span></h1>
-<h3 align="center">💼 Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
+# 📊 Projects Portfolio — Divyansh Mehta
 
 ---
 
-## 🚀 About Me  
-I'm a Data Analyst passionate about transforming messy data into dashboards, insights, and decision-making systems.  
-I love **Python, SQL, dashboards, visual storytelling, and project building**.
+## 🔹 Blinkit Sales Analysis (SQL + Power BI)
+
+### 🚀 Project Overview
+This project analyzes Blinkit retail sales data using SQL and Power BI to generate actionable business insights and support data-driven decision-making.
+
+### 🛠 Tools & Technologies
+- SQL (Data Cleaning & Transformation)
+- Power BI (Dashboard & Visualization)
+- Excel (Data Handling)
+
+### 📌 Key Features
+- KPI tracking (Total Sales, Average Rating, Orders)
+- Category-wise product performance analysis
+- Outlet size and location-based insights
+- Regional sales trends and comparisons
+- Interactive dashboard with filters and drill-down
+
+### 📈 Key Insights
+- Identified high-performing product categories driving revenue
+- Detected underperforming outlets for optimization
+- Improved visibility into sales trends for better inventory planning
 
 ---
 
-## 📊 Projects
+## 🔹 FinSight — Personal Finance Tracker
 
-### 🔹 **Triplytics — Travel Data Analytics Dashboard**  
-Using Python + Power BI to analyze 7,000+ travel records for trends, seasonality & pricing.  
-**Skills:** ETL, EDA, Feature Engineering, DAX, Storytelling
+### 🚀 Project Overview
+FinSight is a Python-based personal finance application that automates expense tracking and provides real-time financial insights.
 
-### 🔹 **FinSight — Personal Finance Tracker**  
-Tkinter + SQLite app to automate expense tracking and real-time insights.  
-**Skills:** Python, SQLite, Matplotlib, GUI
+### 🛠 Tools & Technologies
+- Python (Tkinter for GUI)
+- SQLite (Database)
+- Matplotlib (Data Visualization)
 
-### 🔹 **InternSpire — Internship Management App**  
-Flutter + Firebase app for Students/Faculty/Admin.  
-**Skills:** Mobile Dev, Firebase, Figma, Application Design
+### 📌 Key Features
+- Automated expense categorization and tracking
+- Secure data storage using SQLite
+- CSV export functionality
+- Real-time financial insights through visualizations
 
----
-
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
+### 📈 Key Impact
+- Reduced manual expense tracking by **80%**
+- Enabled better financial decision-making through trend analysis
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=divyyy037&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyyy037&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Connect with Me  
-<p>
-  <a href="https://linkedin.com/in/divyyy07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
-- 📧 **Email:** divyanshmehta6316@gmail.com  
-- 📱 **Phone:** +91 7828019325  
-
----
-
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+## 👨‍💻 Author
+**Divyansh Mehta**  
+🔗 LinkedIn: https://www.linkedin.com/in/divyyy07/
